@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhoneDialer</string>
+    <string name="empty"></string>
+    <string name="dial_1">1</string>
+    <string name="dial_2">2</string>
+    <string name="dial_3">3</string>
+    <string name="dial_4">4</string>
+    <string name="dial_5">5</string>
+    <string name="dial_6">6</string>
+    <string name="dial_7">7</string>
+    <string name="dial_8">8</string>
+    <string name="dial_9">9</string>
+    <string name="dial_star">*</string>
+    <string name="dial_0">0</string>
+    <string name="dial_hash">#</string>
+    <string name="phone_number">%1$s</string>
+</resources>
